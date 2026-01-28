@@ -1,0 +1,7 @@
+﻿bin/
+obj/
+results/
+.vs/
+*.user
+*.suo
+1.csv
